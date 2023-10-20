@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanshikagarg18
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Front End
+- 🌱 I’m currently learning Python framework Flask
 - 💞️ I’m looking to collaborate on a Machine Learing project
 - 📫 How to reach me vanshikagarg59@gmail.com
 - ✨ Sometimes I write Tech articles
